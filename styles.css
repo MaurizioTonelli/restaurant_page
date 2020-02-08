@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 h1{
-    background: url('../images/verduras.jpg');
+    background: url('images/verduras.jpg');
     margin: 0;
     color: black;
     text-align: center;
