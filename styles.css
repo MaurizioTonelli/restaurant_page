@@ -9,7 +9,7 @@ h1{
     text-align: center;
     height: 100px;
 }
-ul li{
+.nav li{
     display: inline;
     margin: 10px;
 }
